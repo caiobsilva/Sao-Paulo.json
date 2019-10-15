@@ -11,8 +11,11 @@ Maping São Paulo into an easily readable JSON file, since I couldn't find any o
 ![alt text](https://raw.githubusercontent.com/caiobsilva/Sao-Paulo.json/master/res/sp_map.jpg)
 
 <br/>
+
 *Mostrando as coordenadas pelo OpenStreetMap* 
+
 <br/>
+
 *Showing the coordinates through OpenStreetMap*
 
 </p>
